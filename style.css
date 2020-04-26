@@ -1,0 +1,27 @@
+body{
+    font-style: italic ;
+}
+.container{
+   text-align: center;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+.about{
+    width: 600px;
+    height: 700px;
+    background:rgb(158, 194, 230);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color:rgb(3, 11, 80);
+}
+.center{
+    margin: auto;
+    background-color: white;
+    width: 950px;
+    height: auto;
+    border: 3px solid black;
+    padding: 10px;
+}

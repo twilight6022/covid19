@@ -1,0 +1,80 @@
+.box{
+
+    padding: 40px;
+
+    text-align: center;
+
+    margin: auto;
+
+    margin-top: 5%;
+
+    
+
+}
+
+body{
+
+    background-color:ghostwhite;
+
+}
+
+.img{
+
+    padding: 20px;
+
+    margin: auto;
+
+    margin-top: 1%;  
+
+}
+
+.text{
+
+    margin-left: 25%;
+
+    text-align:left;
+
+    
+
+}
+
+.ptext{
+
+    padding: 40px;
+
+    text-align: left;
+
+    margin: auto;
+
+    margin-top: 3%;
+
+    margin-left: 120px;
+
+}
+
+.p2text{
+
+    padding: 20px;
+
+    text-align: left;
+
+    margin: auto;
+
+    margin-top: 1%;
+
+    margin-left: 120px;
+
+}
+
+.img1{
+
+    padding: 20px;
+
+    margin: auto;
+
+    margin-top: 1%; 
+
+    margin-left: 10%;
+    
+
+} 
